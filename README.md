@@ -11,3 +11,11 @@
 （2）Tor网络为P2P网络，本身自带NAT穿透功能，可将本地web服务映射到Tor网络中。无需依赖公网IP、域名及DNS等基础设施。
 
 其它软件也能通过Tor软件（本质为Tor软件的代理软件，Tor浏览器即为火狐浏览器集成Tor软件）的9050口访问Tor网络，从而将Tor网络作为代理。
+
+---
+
+## 赞赏多少是您的心意，感谢支持！
+
+微信赞赏码： <img width="200" height="200" src=".github/zanshang.png"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+支付宝赞助码： <img width="200" height="200" src=".github/zanshang_zfb.png"/>
