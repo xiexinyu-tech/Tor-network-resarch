@@ -17,5 +17,4 @@
 ## 赞赏多少是您的心意，感谢支持！
 
 微信赞赏码： <img width="200" height="200" src=".github/zanshang.png"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-支付宝赞助码： <img width="200" height="200" src=".github/zanshang_zfb.png"/>
+
